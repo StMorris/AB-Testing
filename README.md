@@ -11,3 +11,14 @@ Testing has one major advantage over alternative ways of optimizing a website: i
 - E-commerce websites use it to strengthen their conversion funnel
 - Saas websites use it to improve their home page and enhance their sign-up process
 - Lead generation websites use it to optimize their landing pages.
+
+
+### How Does A/B Testing Work?
+
+In order to perform effective tests, you need a “hypothesis”, a way to edit your site and a tool to record the results. Your hypothesis is simply your idea about how to improve your webpage. This might be changing the location of a call-to-action, the layout of a page, or even the colour of a button. 
+
+<img src="https://github.com/StMorris/AB-Testing/blob/main/AB_Testing.JPG"/>
+
+A/B testing software monitors and records the effect of the changes on your visitors’ behaviour. It divides traffic between the ‘treatment’ and the ‘control’ and measures the different responses. The most sophisticated tools even send more visitors to the best-performing page. That way, you don’t lost out on customers whilst your test is running.
+
+Once your site has received enough visits, your software will declare a winner. However, there is another important step to make before the changes can be made permanent. Analysing the statistical significance of your data is a crucial part of the A/B testing process
