@@ -21,4 +21,9 @@ In order to perform effective tests, you need a “hypothesis”, a way to edit 
 
 A/B testing software monitors and records the effect of the changes on your visitors’ behaviour. It divides traffic between the ‘treatment’ and the ‘control’ and measures the different responses. The most sophisticated tools even send more visitors to the best-performing page. That way, you don’t lost out on customers whilst your test is running.
 
-Once your site has received enough visits, your software will declare a winner. However, there is another important step to make before the changes can be made permanent. Analysing the statistical significance of your data is a crucial part of the A/B testing process
+Once your site has received enough visits, your software will declare a winner. However, there is another important step to make before the changes can be made permanent. Analysing the statistical significance of your data is a crucial part of the A/B testing process.
+
+
+### What is Split Testing?
+
+Split testing is the same as A/B testing, except the two pages, A and B, are assigned their own URLs. This makes the loading speed of the pages faster, and allows for more extensive changes. However, it can also be a more complicated process and there is a larger possibility of contaminated data.
